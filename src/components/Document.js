@@ -2,7 +2,7 @@ export function Document(props) {
   const {Html, Head, Body, children, siteData, renderMeta} = props
 
   return (
-    <Html lang="en-US">
+    <Html lang="th">
       <Head>
         <meta charSet="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
